@@ -8,4 +8,4 @@ A Sunrise IDE driver for MSX machines booting Symbos on PicoVerse
 
 <a href="https://msx.pics/image/xtXiZ"><img src="https://msx.pics/images/2026/10/05/SL-3003.md.png" alt="SL 3003" border="0"></a>
 
-This is based on the Symbos mass-storage driver for Sunrise IDE, but making it work on PIcoVerse 2350.
+This is based on the Symbos mass-storage driver for Sunrise IDE by Prodatron (https://github.com/Prodatron/symdrv-msx-massstorage), but making it work on PIcoVerse 2350.
