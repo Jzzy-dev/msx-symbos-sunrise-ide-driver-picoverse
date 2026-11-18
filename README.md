@@ -1,6 +1,9 @@
 # msx-symbos-sunrise-ide-driver-picoverse
 A Sunrise IDE driver for MSX machines booting Symbos on PicoVerse
 
+Now with multipartition thanks to SeD_NcL
+
+<img width="2000" height="1500" alt="WhatsApp Image 2026-11-18 at 09 44 57" src="https://github.com/user-attachments/assets/fef3d654-0e15-4447-8018-fbe8b2382c7a" />
 
 <a href="https://msx.pics/image/xtaHE"><img src="https://msx.pics/images/2026/10/05/SL-3002.md.jpeg" alt="SL 3002" border="0"></a>
 
